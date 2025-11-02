@@ -10,7 +10,7 @@ export const Bio = {
     "Aspiring software developer with strong technical skills.Where i can utilize skills and studies towards personal and professional development. Able to adapt to different work culture and always ready to accept new challenges.",
   github: "https://github.com/adarshnikam17", 
   resume:
-    "https://drive.google.com/file/d/1_FtMX62hOuuwVlh-L-vvvi10CLezdE_7/view?usp=drive_link",
+    "https://drive.google.com/file/d/1NxpxVppCeQNjMWqenJ8e9PQ1fsshpGMl/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/adarshnikam17/",
   insta: "https://www.instagram.com/adarsh_nikam_/",
   medium: "https://medium.com/@adarshnikam51",
