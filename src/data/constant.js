@@ -228,7 +228,7 @@ export const projects = [
   {
     id: 1,
     title: "CareerForge AI – Multi-Agent Career Coach",
-    date: "Jan 2025 - Mar 2025",
+    
     description:
       "Built a multi-agent AI system with 4 specialized agents for resume analysis, live job matching, and skill gap detection. Generates personalized 30-day action plans using Groq's Llama 3.3 LLM with real-time job market data via RapidAPI. Deployed frontend on Vercel and backend on Render with automated CI/CD via GitHub.",
     image:
@@ -249,7 +249,7 @@ export const projects = [
   {
     id: 2,
     title: "CollabSphere – Developer Collaboration Platform",
-    date: "Nov 2024 - Jan 2025",
+    
     description:
       "A full-stack developer collaboration platform with real-time team chat using Socket.io. Implemented secure authentication with JWT and bcryptjs, and connected to MongoDB Atlas. Deployed frontend on Vercel and backend on Render with automated CI/CD via GitHub.",
     image:
@@ -270,7 +270,7 @@ export const projects = [
   {
     id: 3,
     title: "SetMyGoal – Career Guidance System",
-    date: "Aug 2024 - Oct 2024",
+    
     description:
       "A full-stack career guidance web app built using Java, JSP, Servlets, and MySQL. Implemented CRUD operations via JDBC, secure BCrypt authentication, and integrated OpenAI API for intelligent guidance. Deployed on Render cloud using Docker with automated CI/CD pipeline via GitHub.",
     image:
@@ -289,31 +289,5 @@ export const projects = [
     github: "https://github.com/adarshnikam17/setmygoal",
     webapp: "https://setmygoalsystem.onrender.com",
   },
-  {
-    id: 4,
-    title: "Road Crater Report Management System",
-    date: "Jul 2023 - Aug 2023",
-    description:
-      "A web application using Django and Python for reporting and tracking road craters/potholes. Utilized SQLite for data storage, enhancing road safety through streamlined pothole reporting. Managed data through Django's Admin panel.",
-    tags: ["Python", "Django", "SQLite", "Web App", "Admin Panel"],
-    github: "https://github.com/adarshnikam17",
-  },
-  {
-    id: 5,
-    title: "AI-Powered Customer Support Chatbot",
-    date: "Feb 2024 - Mar 2024",
-    description:
-      "Built a chatbot using Python and Streamlit to answer customer queries in real time. Used OpenAI GPT for intelligent responses and stored FAQs in a local SQLite database. Designed a simple UI with personalization and chat history.",
-    tags: ["Python", "Streamlit", "OpenAI GPT", "Chatbot", "SQLite", "AI"],
-    github: "https://github.com/adarshnikam17",
-  },
-  {
-    id: 6,
-    title: "Skill Tracker System",
-    date: "May 2023 - Jun 2023",
-    description:
-      "A desktop-based Skill Tracker system using Java Swing and MySQL. Implemented login and registration functionality with persistent data storage for tracking user skills.",
-    tags: ["Java", "Swing", "MySQL", "Login", "Registration", "XAMPP"],
-    github: "https://github.com/adarshnikam17",
-  },
+  
 ];
