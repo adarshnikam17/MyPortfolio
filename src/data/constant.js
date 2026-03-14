@@ -11,10 +11,10 @@ export const Bio = {
     "Final-year Computer Science student (2026) and full-stack web developer skilled in Java, JavaScript, React, Node.js, and AI integration. I build real-world web applications that solve meaningful problems — from career guidance platforms to AI-powered coaching tools. 200+ DSA problems on LeetCode, 350+ on GeeksforGeeks.",
   github: "https://github.com/adarshnikam17",
   resume:
-    "https://drive.google.com/file/d/1J18fTVLZXWeDzDO9vkyRDGkKe2r8_4PU/view?usp=drive_link",
+    "https://drive.google.com/file/d/1wcY_JY_S-AZ9cfjNIx0B9DZXzZw5xb9n/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adarshnikam17/",
   insta: "https://www.instagram.com/adarsh_nikam_/",
-  medium: "https://medium.com/@adarshnikam51",
+  medium: "https://medium.com/@adarshnikam",
 };
 
 export const skills = [
